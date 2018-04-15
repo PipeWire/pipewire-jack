@@ -33,7 +33,7 @@
 #include <pipewire/pipewire.h>
 #include <pipewire/private.h>
 
-#include "extensions/client-node.h"
+#include <pipewire/extensions/client-node.h>
 
 #define JACK_CLIENT_NAME_SIZE		64
 #define JACK_PORT_NAME_SIZE		256
